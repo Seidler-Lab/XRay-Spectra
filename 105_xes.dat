@@ -2,7 +2,7 @@
 #  NWChem spectrum parser ver 2.2
 # ================================
 # 
-# Parser runtime options: {'infile': '/gscratch/home/vkashyap/phosforus/work/105/xescalc/output.out', 'outfile': '/gscratch/home/vkashyap/phosforus/work/105/xescalc/xes.dat', 'datafmt': 'auto', 'width': 0.1, 'nbin': 20, 'npoints': 2000, 'units': 'ev', 'delim': '    ', 'makespec': False, 'header': True, 'cchar': '#', 'verbose': False}
+# Parser runtime options: {'infile': '/gscratch/stf/stetef/work/105/xescalc/output.out', 'outfile': '/gscratch/stf/stetef/work/105/xescalc/xes.dat', 'datafmt': 'auto', 'width': 0.1, 'nbin': 20, 'npoints': 2000, 'units': 'ev', 'delim': '    ', 'makespec': False, 'header': True, 'cchar': '#', 'verbose': False}
 #
 # The input appears to contain TDDFT data.
 # Successfully parsed 46 TDDFT singlet excitations
